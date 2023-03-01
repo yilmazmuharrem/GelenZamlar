@@ -16,7 +16,7 @@ EF CORE
 POSTGRESQL
 
 
-## Ekran Görüntüleri
+## Proje Resimleri
 
 ![1](https://user-images.githubusercontent.com/77534239/222095784-0a543d77-ab14-459b-ac11-8ad53942efac.png)
 
