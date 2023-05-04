@@ -5,7 +5,7 @@
 
 Kullanılan Teknolojiler;
 
-ASP.NET WEB API
+ASP.NET.CORE WEB API
 
 HTML5-CSS3
 
